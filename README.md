@@ -1,4 +1,4 @@
-Chef’s Hotel Website  
+#Chef’s Hotel Website  
 A hotel landing page built using HTML and CSS.
 
 Features  
